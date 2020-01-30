@@ -4,5 +4,4 @@ def square_array(array)
     array[counter] = array[counter]**array[counter]
     counter += 1
   end
-  array
 end
