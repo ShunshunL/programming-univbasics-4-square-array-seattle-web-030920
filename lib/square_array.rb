@@ -4,6 +4,6 @@ def square_array(array)
   while array.length < counter do
     puts new_array.push(array[counter]**2)
     counter += 1
-    new_array
   end
+  new_array
 end
